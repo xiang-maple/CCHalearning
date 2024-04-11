@@ -1,0 +1,14 @@
+F:\Vs C# learning\C # study\L8 Switch case and ennumeration\bin\Debug\net8.0\L8 Switch case and ennumeration.exe
+F:\Vs C# learning\C # study\L8 Switch case and ennumeration\bin\Debug\net8.0\L8 Switch case and ennumeration.deps.json
+F:\Vs C# learning\C # study\L8 Switch case and ennumeration\bin\Debug\net8.0\L8 Switch case and ennumeration.runtimeconfig.json
+F:\Vs C# learning\C # study\L8 Switch case and ennumeration\bin\Debug\net8.0\L8 Switch case and ennumeration.dll
+F:\Vs C# learning\C # study\L8 Switch case and ennumeration\bin\Debug\net8.0\L8 Switch case and ennumeration.pdb
+F:\Vs C# learning\C # study\L8 Switch case and ennumeration\obj\Debug\net8.0\L8 Switch case and ennumeration.GeneratedMSBuildEditorConfig.editorconfig
+F:\Vs C# learning\C # study\L8 Switch case and ennumeration\obj\Debug\net8.0\L8 Switch case and ennumeration.AssemblyInfoInputs.cache
+F:\Vs C# learning\C # study\L8 Switch case and ennumeration\obj\Debug\net8.0\L8 Switch case and ennumeration.AssemblyInfo.cs
+F:\Vs C# learning\C # study\L8 Switch case and ennumeration\obj\Debug\net8.0\L8 Switch case and ennumeration.csproj.CoreCompileInputs.cache
+F:\Vs C# learning\C # study\L8 Switch case and ennumeration\obj\Debug\net8.0\L8 Switch case and ennumeration.dll
+F:\Vs C# learning\C # study\L8 Switch case and ennumeration\obj\Debug\net8.0\refint\L8 Switch case and ennumeration.dll
+F:\Vs C# learning\C # study\L8 Switch case and ennumeration\obj\Debug\net8.0\L8 Switch case and ennumeration.pdb
+F:\Vs C# learning\C # study\L8 Switch case and ennumeration\obj\Debug\net8.0\L8 Switch case and ennumeration.genruntimeconfig.cache
+F:\Vs C# learning\C # study\L8 Switch case and ennumeration\obj\Debug\net8.0\ref\L8 Switch case and ennumeration.dll

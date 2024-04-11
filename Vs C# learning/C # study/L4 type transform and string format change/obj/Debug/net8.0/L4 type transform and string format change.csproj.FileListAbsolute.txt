@@ -1,0 +1,14 @@
+D:\Vs C# learning\C # study\L4 type transform and string format change\bin\Debug\net8.0\L4 type transform and string format change.exe
+D:\Vs C# learning\C # study\L4 type transform and string format change\bin\Debug\net8.0\L4 type transform and string format change.deps.json
+D:\Vs C# learning\C # study\L4 type transform and string format change\bin\Debug\net8.0\L4 type transform and string format change.runtimeconfig.json
+D:\Vs C# learning\C # study\L4 type transform and string format change\bin\Debug\net8.0\L4 type transform and string format change.dll
+D:\Vs C# learning\C # study\L4 type transform and string format change\bin\Debug\net8.0\L4 type transform and string format change.pdb
+D:\Vs C# learning\C # study\L4 type transform and string format change\obj\Debug\net8.0\L4 type transform and string format change.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs C# learning\C # study\L4 type transform and string format change\obj\Debug\net8.0\L4 type transform and string format change.AssemblyInfoInputs.cache
+D:\Vs C# learning\C # study\L4 type transform and string format change\obj\Debug\net8.0\L4 type transform and string format change.AssemblyInfo.cs
+D:\Vs C# learning\C # study\L4 type transform and string format change\obj\Debug\net8.0\L4 type transform and string format change.csproj.CoreCompileInputs.cache
+D:\Vs C# learning\C # study\L4 type transform and string format change\obj\Debug\net8.0\L4 type transform and string format change.dll
+D:\Vs C# learning\C # study\L4 type transform and string format change\obj\Debug\net8.0\refint\L4 type transform and string format change.dll
+D:\Vs C# learning\C # study\L4 type transform and string format change\obj\Debug\net8.0\L4 type transform and string format change.pdb
+D:\Vs C# learning\C # study\L4 type transform and string format change\obj\Debug\net8.0\L4 type transform and string format change.genruntimeconfig.cache
+D:\Vs C# learning\C # study\L4 type transform and string format change\obj\Debug\net8.0\ref\L4 type transform and string format change.dll

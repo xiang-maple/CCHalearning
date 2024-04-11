@@ -1,0 +1,14 @@
+D:\Vs C# learning\L4_homework\bin\Debug\net8.0\L4_homework.exe
+D:\Vs C# learning\L4_homework\bin\Debug\net8.0\L4_homework.deps.json
+D:\Vs C# learning\L4_homework\bin\Debug\net8.0\L4_homework.runtimeconfig.json
+D:\Vs C# learning\L4_homework\bin\Debug\net8.0\L4_homework.dll
+D:\Vs C# learning\L4_homework\bin\Debug\net8.0\L4_homework.pdb
+D:\Vs C# learning\L4_homework\obj\Debug\net8.0\L4_homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs C# learning\L4_homework\obj\Debug\net8.0\L4_homework.AssemblyInfoInputs.cache
+D:\Vs C# learning\L4_homework\obj\Debug\net8.0\L4_homework.AssemblyInfo.cs
+D:\Vs C# learning\L4_homework\obj\Debug\net8.0\L4_homework.csproj.CoreCompileInputs.cache
+D:\Vs C# learning\L4_homework\obj\Debug\net8.0\L4_homework.dll
+D:\Vs C# learning\L4_homework\obj\Debug\net8.0\refint\L4_homework.dll
+D:\Vs C# learning\L4_homework\obj\Debug\net8.0\L4_homework.pdb
+D:\Vs C# learning\L4_homework\obj\Debug\net8.0\L4_homework.genruntimeconfig.cache
+D:\Vs C# learning\L4_homework\obj\Debug\net8.0\ref\L4_homework.dll

@@ -1,0 +1,28 @@
+D:\Vs C# learning\ConsoleApp1\L3- Variables and types\bin\Debug\net8.0\L3- Variables and types.exe
+D:\Vs C# learning\ConsoleApp1\L3- Variables and types\bin\Debug\net8.0\L3- Variables and types.deps.json
+D:\Vs C# learning\ConsoleApp1\L3- Variables and types\bin\Debug\net8.0\L3- Variables and types.runtimeconfig.json
+D:\Vs C# learning\ConsoleApp1\L3- Variables and types\bin\Debug\net8.0\L3- Variables and types.dll
+D:\Vs C# learning\ConsoleApp1\L3- Variables and types\bin\Debug\net8.0\L3- Variables and types.pdb
+D:\Vs C# learning\ConsoleApp1\L3- Variables and types\obj\Debug\net8.0\L3- Variables and types.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs C# learning\ConsoleApp1\L3- Variables and types\obj\Debug\net8.0\L3- Variables and types.AssemblyInfoInputs.cache
+D:\Vs C# learning\ConsoleApp1\L3- Variables and types\obj\Debug\net8.0\L3- Variables and types.AssemblyInfo.cs
+D:\Vs C# learning\ConsoleApp1\L3- Variables and types\obj\Debug\net8.0\L3- Variables and types.csproj.CoreCompileInputs.cache
+D:\Vs C# learning\ConsoleApp1\L3- Variables and types\obj\Debug\net8.0\L3- Variables and types.dll
+D:\Vs C# learning\ConsoleApp1\L3- Variables and types\obj\Debug\net8.0\refint\L3- Variables and types.dll
+D:\Vs C# learning\ConsoleApp1\L3- Variables and types\obj\Debug\net8.0\L3- Variables and types.pdb
+D:\Vs C# learning\ConsoleApp1\L3- Variables and types\obj\Debug\net8.0\L3- Variables and types.genruntimeconfig.cache
+D:\Vs C# learning\ConsoleApp1\L3- Variables and types\obj\Debug\net8.0\ref\L3- Variables and types.dll
+D:\Vs C# learning\C # study\L3- Variables and types\bin\Debug\net8.0\L3- Variables and types.exe
+D:\Vs C# learning\C # study\L3- Variables and types\bin\Debug\net8.0\L3- Variables and types.deps.json
+D:\Vs C# learning\C # study\L3- Variables and types\bin\Debug\net8.0\L3- Variables and types.runtimeconfig.json
+D:\Vs C# learning\C # study\L3- Variables and types\bin\Debug\net8.0\L3- Variables and types.dll
+D:\Vs C# learning\C # study\L3- Variables and types\bin\Debug\net8.0\L3- Variables and types.pdb
+D:\Vs C# learning\C # study\L3- Variables and types\obj\Debug\net8.0\L3- Variables and types.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs C# learning\C # study\L3- Variables and types\obj\Debug\net8.0\L3- Variables and types.AssemblyInfoInputs.cache
+D:\Vs C# learning\C # study\L3- Variables and types\obj\Debug\net8.0\L3- Variables and types.AssemblyInfo.cs
+D:\Vs C# learning\C # study\L3- Variables and types\obj\Debug\net8.0\L3- Variables and types.csproj.CoreCompileInputs.cache
+D:\Vs C# learning\C # study\L3- Variables and types\obj\Debug\net8.0\L3- Variables and types.dll
+D:\Vs C# learning\C # study\L3- Variables and types\obj\Debug\net8.0\refint\L3- Variables and types.dll
+D:\Vs C# learning\C # study\L3- Variables and types\obj\Debug\net8.0\L3- Variables and types.pdb
+D:\Vs C# learning\C # study\L3- Variables and types\obj\Debug\net8.0\L3- Variables and types.genruntimeconfig.cache
+D:\Vs C# learning\C # study\L3- Variables and types\obj\Debug\net8.0\ref\L3- Variables and types.dll

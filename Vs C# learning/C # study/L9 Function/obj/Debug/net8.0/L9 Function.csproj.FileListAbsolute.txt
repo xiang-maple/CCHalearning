@@ -1,0 +1,14 @@
+F:\Vs C# learning\C # study\L9 Function\bin\Debug\net8.0\L9 Function.exe
+F:\Vs C# learning\C # study\L9 Function\bin\Debug\net8.0\L9 Function.deps.json
+F:\Vs C# learning\C # study\L9 Function\bin\Debug\net8.0\L9 Function.runtimeconfig.json
+F:\Vs C# learning\C # study\L9 Function\bin\Debug\net8.0\L9 Function.dll
+F:\Vs C# learning\C # study\L9 Function\bin\Debug\net8.0\L9 Function.pdb
+F:\Vs C# learning\C # study\L9 Function\obj\Debug\net8.0\L9 Function.GeneratedMSBuildEditorConfig.editorconfig
+F:\Vs C# learning\C # study\L9 Function\obj\Debug\net8.0\L9 Function.AssemblyInfoInputs.cache
+F:\Vs C# learning\C # study\L9 Function\obj\Debug\net8.0\L9 Function.AssemblyInfo.cs
+F:\Vs C# learning\C # study\L9 Function\obj\Debug\net8.0\L9 Function.csproj.CoreCompileInputs.cache
+F:\Vs C# learning\C # study\L9 Function\obj\Debug\net8.0\L9 Function.dll
+F:\Vs C# learning\C # study\L9 Function\obj\Debug\net8.0\refint\L9 Function.dll
+F:\Vs C# learning\C # study\L9 Function\obj\Debug\net8.0\L9 Function.pdb
+F:\Vs C# learning\C # study\L9 Function\obj\Debug\net8.0\L9 Function.genruntimeconfig.cache
+F:\Vs C# learning\C # study\L9 Function\obj\Debug\net8.0\ref\L9 Function.dll

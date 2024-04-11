@@ -1,0 +1,14 @@
+F:\Vs C# learning\C # study\L7 for loop\bin\Debug\net8.0\L7 for loop.exe
+F:\Vs C# learning\C # study\L7 for loop\bin\Debug\net8.0\L7 for loop.deps.json
+F:\Vs C# learning\C # study\L7 for loop\bin\Debug\net8.0\L7 for loop.runtimeconfig.json
+F:\Vs C# learning\C # study\L7 for loop\bin\Debug\net8.0\L7 for loop.dll
+F:\Vs C# learning\C # study\L7 for loop\bin\Debug\net8.0\L7 for loop.pdb
+F:\Vs C# learning\C # study\L7 for loop\obj\Debug\net8.0\L7 for loop.GeneratedMSBuildEditorConfig.editorconfig
+F:\Vs C# learning\C # study\L7 for loop\obj\Debug\net8.0\L7 for loop.AssemblyInfoInputs.cache
+F:\Vs C# learning\C # study\L7 for loop\obj\Debug\net8.0\L7 for loop.AssemblyInfo.cs
+F:\Vs C# learning\C # study\L7 for loop\obj\Debug\net8.0\L7 for loop.csproj.CoreCompileInputs.cache
+F:\Vs C# learning\C # study\L7 for loop\obj\Debug\net8.0\L7 for loop.dll
+F:\Vs C# learning\C # study\L7 for loop\obj\Debug\net8.0\refint\L7 for loop.dll
+F:\Vs C# learning\C # study\L7 for loop\obj\Debug\net8.0\L7 for loop.pdb
+F:\Vs C# learning\C # study\L7 for loop\obj\Debug\net8.0\L7 for loop.genruntimeconfig.cache
+F:\Vs C# learning\C # study\L7 for loop\obj\Debug\net8.0\ref\L7 for loop.dll

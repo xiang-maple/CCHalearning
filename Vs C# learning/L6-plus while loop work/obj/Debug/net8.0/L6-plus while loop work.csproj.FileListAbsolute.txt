@@ -1,0 +1,14 @@
+F:\Vs C# learning\L6-plus while loop work\bin\Debug\net8.0\L6-plus while loop work.exe
+F:\Vs C# learning\L6-plus while loop work\bin\Debug\net8.0\L6-plus while loop work.deps.json
+F:\Vs C# learning\L6-plus while loop work\bin\Debug\net8.0\L6-plus while loop work.runtimeconfig.json
+F:\Vs C# learning\L6-plus while loop work\bin\Debug\net8.0\L6-plus while loop work.dll
+F:\Vs C# learning\L6-plus while loop work\bin\Debug\net8.0\L6-plus while loop work.pdb
+F:\Vs C# learning\L6-plus while loop work\obj\Debug\net8.0\L6-plus while loop work.GeneratedMSBuildEditorConfig.editorconfig
+F:\Vs C# learning\L6-plus while loop work\obj\Debug\net8.0\L6-plus while loop work.AssemblyInfoInputs.cache
+F:\Vs C# learning\L6-plus while loop work\obj\Debug\net8.0\L6-plus while loop work.AssemblyInfo.cs
+F:\Vs C# learning\L6-plus while loop work\obj\Debug\net8.0\L6-plus while loop work.csproj.CoreCompileInputs.cache
+F:\Vs C# learning\L6-plus while loop work\obj\Debug\net8.0\L6-plus while loop work.dll
+F:\Vs C# learning\L6-plus while loop work\obj\Debug\net8.0\refint\L6-plus while loop work.dll
+F:\Vs C# learning\L6-plus while loop work\obj\Debug\net8.0\L6-plus while loop work.pdb
+F:\Vs C# learning\L6-plus while loop work\obj\Debug\net8.0\L6-plus while loop work.genruntimeconfig.cache
+F:\Vs C# learning\L6-plus while loop work\obj\Debug\net8.0\ref\L6-plus while loop work.dll

@@ -1,0 +1,14 @@
+D:\Vs C# learning\L5_homework\bin\Debug\net8.0\L5_homework.exe
+D:\Vs C# learning\L5_homework\bin\Debug\net8.0\L5_homework.deps.json
+D:\Vs C# learning\L5_homework\bin\Debug\net8.0\L5_homework.runtimeconfig.json
+D:\Vs C# learning\L5_homework\bin\Debug\net8.0\L5_homework.dll
+D:\Vs C# learning\L5_homework\bin\Debug\net8.0\L5_homework.pdb
+D:\Vs C# learning\L5_homework\obj\Debug\net8.0\L5_homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs C# learning\L5_homework\obj\Debug\net8.0\L5_homework.AssemblyInfoInputs.cache
+D:\Vs C# learning\L5_homework\obj\Debug\net8.0\L5_homework.AssemblyInfo.cs
+D:\Vs C# learning\L5_homework\obj\Debug\net8.0\L5_homework.csproj.CoreCompileInputs.cache
+D:\Vs C# learning\L5_homework\obj\Debug\net8.0\L5_homework.dll
+D:\Vs C# learning\L5_homework\obj\Debug\net8.0\refint\L5_homework.dll
+D:\Vs C# learning\L5_homework\obj\Debug\net8.0\L5_homework.pdb
+D:\Vs C# learning\L5_homework\obj\Debug\net8.0\L5_homework.genruntimeconfig.cache
+D:\Vs C# learning\L5_homework\obj\Debug\net8.0\ref\L5_homework.dll
