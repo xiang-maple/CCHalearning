@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L7 for loop", "L7 for loop\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L8 Switch case and ennumeration", "L8 Switch case and ennumeration\L8 Switch case and ennumeration.csproj", "{C475AE4B-B2F9-40A6-99A5-C43A2257CF51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L9 Function", "L9 Function\L9 Function.csproj", "{853879FF-6CA3-477E-9F91-36402327E5AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L9 Function", "L9 Function\L9 Function.csproj", "{853879FF-6CA3-477E-9F91-36402327E5AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L10 array", "L10 array\L10 array.csproj", "{19EE0DC9-5591-4DD5-B507-C205346E9207}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{853879FF-6CA3-477E-9F91-36402327E5AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{853879FF-6CA3-477E-9F91-36402327E5AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{853879FF-6CA3-477E-9F91-36402327E5AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19EE0DC9-5591-4DD5-B507-C205346E9207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19EE0DC9-5591-4DD5-B507-C205346E9207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19EE0DC9-5591-4DD5-B507-C205346E9207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19EE0DC9-5591-4DD5-B507-C205346E9207}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

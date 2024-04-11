@@ -14,7 +14,7 @@ namespace L6_while_loop
             while (flag)
             {
                 i++;
-                j += i;
+                j += i; 
 
                 if (i >= count)
                 {

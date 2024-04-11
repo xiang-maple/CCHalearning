@@ -1,53 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Vs C# learning\\C # study\\",
+  "WorkspaceRootPath": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CD6A619-1C1E-45A6-9E1B-8C31BCF46DE4}|L6 while loop\\L6 while loop.csproj|f:\\vs c# learning\\c # study\\l6 while loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD6A619-1C1E-45A6-9E1B-8C31BCF46DE4}|L6 while loop\\L6 while loop.csproj|solutionrelative:l6 while loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19EE0DC9-5591-4DD5-B507-C205346E9207}|L10 array\\L10 array.csproj|d:\\github\\cchalearning\\vs c# learning\\c # study\\l10 array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19EE0DC9-5591-4DD5-B507-C205346E9207}|L10 array\\L10 array.csproj|solutionrelative:l10 array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{853879FF-6CA3-477E-9F91-36402327E5AD}|L9 Function\\L9 Function.csproj|f:\\vs c# learning\\c # study\\l9 function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{853879FF-6CA3-477E-9F91-36402327E5AD}|L9 Function\\L9 Function.csproj|solutionrelative:l9 function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C475AE4B-B2F9-40A6-99A5-C43A2257CF51}|L8 Switch case and ennumeration\\L8 Switch case and ennumeration.csproj|f:\\vs c# learning\\c # study\\l8 switch case and ennumeration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C475AE4B-B2F9-40A6-99A5-C43A2257CF51}|L8 Switch case and ennumeration\\L8 Switch case and ennumeration.csproj|solutionrelative:l8 switch case and ennumeration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CD6A619-1C1E-45A6-9E1B-8C31BCF46DE4}|L6 while loop\\L6 while loop.csproj|f:\\vs c# learning\\c # study\\l6 while loop\\l6 while loop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2CD6A619-1C1E-45A6-9E1B-8C31BCF46DE4}|L6 while loop\\L6 while loop.csproj|solutionrelative:l6 while loop\\l6 while loop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45D246B1-FB31-4B2E-ACC9-02FA9F90FAFD}|L4 type transform and string format change\\L4 type transform and string format change.csproj|f:\\vs c# learning\\c # study\\l4 type transform and string format change\\l4program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45D246B1-FB31-4B2E-ACC9-02FA9F90FAFD}|L4 type transform and string format change\\L4 type transform and string format change.csproj|solutionrelative:l4 type transform and string format change\\l4program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45D246B1-FB31-4B2E-ACC9-02FA9F90FAFD}|L4 type transform and string format change\\L4 type transform and string format change.csproj|f:\\vs c# learning\\c # study\\l4 type transform and string format change\\l4 type transform and string format change.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{45D246B1-FB31-4B2E-ACC9-02FA9F90FAFD}|L4 type transform and string format change\\L4 type transform and string format change.csproj|solutionrelative:l4 type transform and string format change\\l4 type transform and string format change.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3239CE58-57A8-4E73-959B-342342FE8199}|L3- Variables and types\\L3- Variables and types.csproj|f:\\vs c# learning\\c # study\\l3- variables and types\\l3program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3239CE58-57A8-4E73-959B-342342FE8199}|L3- Variables and types\\L3- Variables and types.csproj|solutionrelative:l3- variables and types\\l3program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3239CE58-57A8-4E73-959B-342342FE8199}|L3- Variables and types\\L3- Variables and types.csproj|f:\\vs c# learning\\c # study\\l3- variables and types\\l3- variables and types.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{3239CE58-57A8-4E73-959B-342342FE8199}|L3- Variables and types\\L3- Variables and types.csproj|d:\\github\\cchalearning\\vs c# learning\\c # study\\l3- variables and types\\l3- variables and types.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3239CE58-57A8-4E73-959B-342342FE8199}|L3- Variables and types\\L3- Variables and types.csproj|solutionrelative:l3- variables and types\\l3- variables and types.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D2D1EC4-2E0E-4EF5-A0F1-0E9F26F05F73}|L7 for loop\\L7 for loop.csproj|f:\\vs c# learning\\c # study\\l7 for loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D2D1EC4-2E0E-4EF5-A0F1-0E9F26F05F73}|L7 for loop\\L7 for loop.csproj|solutionrelative:l7 for loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A233B1E-AA18-42A5-9870-C397EA7B87D6}|L5, condition sentence\\L5, condition sentence.csproj|f:\\vs c# learning\\c # study\\l5, condition sentence\\l5program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A233B1E-AA18-42A5-9870-C397EA7B87D6}|L5, condition sentence\\L5, condition sentence.csproj|d:\\github\\cchalearning\\vs c# learning\\c # study\\l5, condition sentence\\l5program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A233B1E-AA18-42A5-9870-C397EA7B87D6}|L5, condition sentence\\L5, condition sentence.csproj|solutionrelative:l5, condition sentence\\l5program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A233B1E-AA18-42A5-9870-C397EA7B87D6}|L5, condition sentence\\L5, condition sentence.csproj|f:\\vs c# learning\\c # study\\l5, condition sentence\\l5, condition sentence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{2CD6A619-1C1E-45A6-9E1B-8C31BCF46DE4}|L6 while loop\\L6 while loop.csproj|d:\\github\\cchalearning\\vs c# learning\\c # study\\l6 while loop\\l6 while loop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2CD6A619-1C1E-45A6-9E1B-8C31BCF46DE4}|L6 while loop\\L6 while loop.csproj|solutionrelative:l6 while loop\\l6 while loop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A233B1E-AA18-42A5-9870-C397EA7B87D6}|L5, condition sentence\\L5, condition sentence.csproj|d:\\github\\cchalearning\\vs c# learning\\c # study\\l5, condition sentence\\l5, condition sentence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9A233B1E-AA18-42A5-9870-C397EA7B87D6}|L5, condition sentence\\L5, condition sentence.csproj|solutionrelative:l5, condition sentence\\l5, condition sentence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0007E44C-BD1E-4288-B625-B5E613F22955}|C  # L2\\C  # L2.csproj|f:\\vs c# learning\\c # study\\c  # l2\\l2program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{853879FF-6CA3-477E-9F91-36402327E5AD}|L9 Function\\L9 Function.csproj|d:\\github\\cchalearning\\vs c# learning\\c # study\\l9 function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853879FF-6CA3-477E-9F91-36402327E5AD}|L9 Function\\L9 Function.csproj|solutionrelative:l9 function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3239CE58-57A8-4E73-959B-342342FE8199}|L3- Variables and types\\L3- Variables and types.csproj|d:\\github\\cchalearning\\vs c# learning\\c # study\\l3- variables and types\\l3program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3239CE58-57A8-4E73-959B-342342FE8199}|L3- Variables and types\\L3- Variables and types.csproj|solutionrelative:l3- variables and types\\l3program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C475AE4B-B2F9-40A6-99A5-C43A2257CF51}|L8 Switch case and ennumeration\\L8 Switch case and ennumeration.csproj|d:\\github\\cchalearning\\vs c# learning\\c # study\\l8 switch case and ennumeration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C475AE4B-B2F9-40A6-99A5-C43A2257CF51}|L8 Switch case and ennumeration\\L8 Switch case and ennumeration.csproj|solutionrelative:l8 switch case and ennumeration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19EE0DC9-5591-4DD5-B507-C205346E9207}|L10 array\\L10 array.csproj|d:\\github\\cchalearning\\vs c# learning\\c # study\\l10 array\\l10 array.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19EE0DC9-5591-4DD5-B507-C205346E9207}|L10 array\\L10 array.csproj|solutionrelative:l10 array\\l10 array.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD6A619-1C1E-45A6-9E1B-8C31BCF46DE4}|L6 while loop\\L6 while loop.csproj|d:\\github\\cchalearning\\vs c# learning\\c # study\\l6 while loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD6A619-1C1E-45A6-9E1B-8C31BCF46DE4}|L6 while loop\\L6 while loop.csproj|solutionrelative:l6 while loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D246B1-FB31-4B2E-ACC9-02FA9F90FAFD}|L4 type transform and string format change\\L4 type transform and string format change.csproj|d:\\github\\cchalearning\\vs c# learning\\c # study\\l4 type transform and string format change\\l4program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D246B1-FB31-4B2E-ACC9-02FA9F90FAFD}|L4 type transform and string format change\\L4 type transform and string format change.csproj|solutionrelative:l4 type transform and string format change\\l4program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D246B1-FB31-4B2E-ACC9-02FA9F90FAFD}|L4 type transform and string format change\\L4 type transform and string format change.csproj|d:\\github\\cchalearning\\vs c# learning\\c # study\\l4 type transform and string format change\\l4 type transform and string format change.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45D246B1-FB31-4B2E-ACC9-02FA9F90FAFD}|L4 type transform and string format change\\L4 type transform and string format change.csproj|solutionrelative:l4 type transform and string format change\\l4 type transform and string format change.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D1EC4-2E0E-4EF5-A0F1-0E9F26F05F73}|L7 for loop\\L7 for loop.csproj|d:\\github\\cchalearning\\vs c# learning\\c # study\\l7 for loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D1EC4-2E0E-4EF5-A0F1-0E9F26F05F73}|L7 for loop\\L7 for loop.csproj|solutionrelative:l7 for loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0007E44C-BD1E-4288-B625-B5E613F22955}|C  # L2\\C  # L2.csproj|d:\\github\\cchalearning\\vs c# learning\\c # study\\c  # l2\\l2program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0007E44C-BD1E-4288-B625-B5E613F22955}|C  # L2\\C  # L2.csproj|solutionrelative:c  # l2\\l2program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,15 +66,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "L4Program.cs",
-              "DocumentMoniker": "F:\\Vs C# learning\\C # study\\L4 type transform and string format change\\L4Program.cs",
+              "DocumentMoniker": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L4 type transform and string format change\\L4Program.cs",
               "RelativeDocumentMoniker": "L4 type transform and string format change\\L4Program.cs",
-              "ToolTip": "F:\\Vs C# learning\\C # study\\L4 type transform and string format change\\L4Program.cs",
+              "ToolTip": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L4 type transform and string format change\\L4Program.cs",
               "RelativeToolTip": "L4 type transform and string format change\\L4Program.cs",
               "ViewState": "AQIAADcAAAAAAAAAAAAQwDEAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -76,10 +84,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "L6 while loop",
-              "DocumentMoniker": "F:\\Vs C# learning\\C # study\\L6 while loop\\L6 while loop.csproj",
+              "Title": "L6 while loop.csproj",
+              "DocumentMoniker": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L6 while loop\\L6 while loop.csproj",
               "RelativeDocumentMoniker": "L6 while loop\\L6 while loop.csproj",
-              "ToolTip": "F:\\Vs C# learning\\C # study\\L6 while loop\\L6 while loop.csproj",
+              "ToolTip": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L6 while loop\\L6 while loop.csproj",
               "RelativeToolTip": "L6 while loop\\L6 while loop.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -88,88 +96,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Vs C# learning\\C # study\\L9 Function\\Program.cs",
-              "RelativeDocumentMoniker": "L9 Function\\Program.cs",
-              "ToolTip": "F:\\Vs C# learning\\C # study\\L9 Function\\Program.cs",
-              "RelativeToolTip": "L9 Function\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T10:23:39.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "L4 type transform and string format change.csproj",
-              "DocumentMoniker": "F:\\Vs C# learning\\C # study\\L4 type transform and string format change\\L4 type transform and string format change.csproj",
-              "RelativeDocumentMoniker": "L4 type transform and string format change\\L4 type transform and string format change.csproj",
-              "ToolTip": "F:\\Vs C# learning\\C # study\\L4 type transform and string format change\\L4 type transform and string format change.csproj",
-              "RelativeToolTip": "L4 type transform and string format change\\L4 type transform and string format change.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-06T14:49:50.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Vs C# learning\\C # study\\L8 Switch case and ennumeration\\Program.cs",
-              "RelativeDocumentMoniker": "L8 Switch case and ennumeration\\Program.cs",
-              "ToolTip": "F:\\Vs C# learning\\C # study\\L8 Switch case and ennumeration\\Program.cs",
-              "RelativeToolTip": "L8 Switch case and ennumeration\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAeAAAA",
+              "Title": "L5Program.cs",
+              "DocumentMoniker": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L5, condition sentence\\L5Program.cs",
+              "RelativeDocumentMoniker": "L5, condition sentence\\L5Program.cs",
+              "ToolTip": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L5, condition sentence\\L5Program.cs",
+              "RelativeToolTip": "L5, condition sentence\\L5Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwE0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T10:53:53.797Z",
+              "WhenOpened": "2024-03-31T07:06:37.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Vs C# learning\\C # study\\L7 for loop\\Program.cs",
-              "RelativeDocumentMoniker": "L7 for loop\\Program.cs",
-              "ToolTip": "F:\\Vs C# learning\\C # study\\L7 for loop\\Program.cs",
-              "RelativeToolTip": "L7 for loop\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T07:53:15.936Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "L5, condition sentence.csproj",
-              "DocumentMoniker": "F:\\Vs C# learning\\C # study\\L5, condition sentence\\L5, condition sentence.csproj",
-              "RelativeDocumentMoniker": "L5, condition sentence\\L5, condition sentence.csproj",
-              "ToolTip": "F:\\Vs C# learning\\C # study\\L5, condition sentence\\L5, condition sentence.csproj",
-              "RelativeToolTip": "L5, condition sentence\\L5, condition sentence.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-01T07:46:54.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Vs C# learning\\C # study\\L6 while loop\\Program.cs",
-              "RelativeDocumentMoniker": "L6 while loop\\Program.cs",
-              "ToolTip": "F:\\Vs C# learning\\C # study\\L6 while loop\\Program.cs",
-              "RelativeToolTip": "L6 while loop\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAGMAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T07:37:04.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "L3- Variables and types.csproj",
-              "DocumentMoniker": "F:\\Vs C# learning\\C # study\\L3- Variables and types\\L3- Variables and types.csproj",
+              "DocumentMoniker": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L3- Variables and types\\L3- Variables and types.csproj",
               "RelativeDocumentMoniker": "L3- Variables and types\\L3- Variables and types.csproj",
-              "ToolTip": "F:\\Vs C# learning\\C # study\\L3- Variables and types\\L3- Variables and types.csproj",
+              "ToolTip": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L3- Variables and types\\L3- Variables and types.csproj",
               "RelativeToolTip": "L3- Variables and types\\L3- Variables and types.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -178,39 +122,131 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "L5Program.cs",
-              "DocumentMoniker": "F:\\Vs C# learning\\C # study\\L5, condition sentence\\L5Program.cs",
-              "RelativeDocumentMoniker": "L5, condition sentence\\L5Program.cs",
-              "ToolTip": "F:\\Vs C# learning\\C # study\\L5, condition sentence\\L5Program.cs",
-              "RelativeToolTip": "L5, condition sentence\\L5Program.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAQwDQAAAAbAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L10 array\\Program.cs",
+              "RelativeDocumentMoniker": "L10 array\\Program.cs",
+              "ToolTip": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L10 array\\Program.cs",
+              "RelativeToolTip": "L10 array\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAowFQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T07:06:37.911Z"
+              "WhenOpened": "2024-04-11T10:02:49.232Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "L2Program.cs",
-              "DocumentMoniker": "F:\\Vs C# learning\\C # study\\C  # L2\\L2Program.cs",
-              "RelativeDocumentMoniker": "C  # L2\\L2Program.cs",
-              "ToolTip": "F:\\Vs C# learning\\C # study\\C  # L2\\L2Program.cs",
-              "RelativeToolTip": "C  # L2\\L2Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "DocumentIndex": 4,
+              "Title": "L5, condition sentence.csproj",
+              "DocumentMoniker": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L5, condition sentence\\L5, condition sentence.csproj",
+              "RelativeDocumentMoniker": "L5, condition sentence\\L5, condition sentence.csproj",
+              "ToolTip": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L5, condition sentence\\L5, condition sentence.csproj",
+              "RelativeToolTip": "L5, condition sentence\\L5, condition sentence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-01T07:46:54.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L9 Function\\Program.cs",
+              "RelativeDocumentMoniker": "L9 Function\\Program.cs",
+              "ToolTip": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L9 Function\\Program.cs",
+              "RelativeToolTip": "L9 Function\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T06:17:31.77Z"
+              "WhenOpened": "2024-04-10T10:23:39.298Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "L3Program.cs",
-              "DocumentMoniker": "F:\\Vs C# learning\\C # study\\L3- Variables and types\\L3Program.cs",
+              "DocumentMoniker": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L3- Variables and types\\L3Program.cs",
               "RelativeDocumentMoniker": "L3- Variables and types\\L3Program.cs",
-              "ToolTip": "F:\\Vs C# learning\\C # study\\L3- Variables and types\\L3Program.cs",
+              "ToolTip": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L3- Variables and types\\L3Program.cs",
               "RelativeToolTip": "L3- Variables and types\\L3Program.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAQwEAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T06:17:25.185Z"
+              "WhenOpened": "2024-03-31T06:17:25.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L8 Switch case and ennumeration\\Program.cs",
+              "RelativeDocumentMoniker": "L8 Switch case and ennumeration\\Program.cs",
+              "ToolTip": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L8 Switch case and ennumeration\\Program.cs",
+              "RelativeToolTip": "L8 Switch case and ennumeration\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T10:53:53.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L6 while loop\\Program.cs",
+              "RelativeDocumentMoniker": "L6 while loop\\Program.cs",
+              "ToolTip": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L6 while loop\\Program.cs",
+              "RelativeToolTip": "L6 while loop\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:37:04.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "L10 array",
+              "DocumentMoniker": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L10 array\\L10 array.csproj",
+              "RelativeDocumentMoniker": "L10 array\\L10 array.csproj",
+              "ToolTip": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L10 array\\L10 array.csproj",
+              "RelativeToolTip": "L10 array\\L10 array.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-11T10:03:00.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "L4 type transform and string format change.csproj",
+              "DocumentMoniker": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L4 type transform and string format change\\L4 type transform and string format change.csproj",
+              "RelativeDocumentMoniker": "L4 type transform and string format change\\L4 type transform and string format change.csproj",
+              "ToolTip": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L4 type transform and string format change\\L4 type transform and string format change.csproj",
+              "RelativeToolTip": "L4 type transform and string format change\\L4 type transform and string format change.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-06T14:49:50.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L7 for loop\\Program.cs",
+              "RelativeDocumentMoniker": "L7 for loop\\Program.cs",
+              "ToolTip": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L7 for loop\\Program.cs",
+              "RelativeToolTip": "L7 for loop\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:53:15.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "L2Program.cs",
+              "DocumentMoniker": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\C  # L2\\L2Program.cs",
+              "RelativeDocumentMoniker": "C  # L2\\L2Program.cs",
+              "ToolTip": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\C  # L2\\L2Program.cs",
+              "RelativeToolTip": "C  # L2\\L2Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T06:17:31.77Z"
             }
           ]
         }

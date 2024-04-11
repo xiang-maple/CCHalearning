@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L3- Variables and types")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2210c238304bc4edcd6de3bc92eef901bc4ba005")]
 [assembly: System.Reflection.AssemblyProductAttribute("L3- Variables and types")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L3- Variables and types")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

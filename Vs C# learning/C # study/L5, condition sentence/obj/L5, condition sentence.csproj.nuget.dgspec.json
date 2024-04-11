@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Vs C# learning\\C # study\\L5, condition sentence\\L5, condition sentence.csproj": {}
+    "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L5, condition sentence\\L5, condition sentence.csproj": {}
   },
   "projects": {
-    "F:\\Vs C# learning\\C # study\\L5, condition sentence\\L5, condition sentence.csproj": {
+    "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L5, condition sentence\\L5, condition sentence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Vs C# learning\\C # study\\L5, condition sentence\\L5, condition sentence.csproj",
+        "projectUniqueName": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L5, condition sentence\\L5, condition sentence.csproj",
         "projectName": "L5, condition sentence",
-        "projectPath": "F:\\Vs C# learning\\C # study\\L5, condition sentence\\L5, condition sentence.csproj",
+        "projectPath": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L5, condition sentence\\L5, condition sentence.csproj",
         "packagesPath": "C:\\Users\\21609\\.nuget\\packages\\",
-        "outputPath": "F:\\Vs C# learning\\C # study\\L5, condition sentence\\obj\\",
+        "outputPath": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L5, condition sentence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

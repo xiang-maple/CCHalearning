@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Vs C# learning\\C # study\\C  # L2\\C  # L2.csproj": {}
+    "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\C  # L2\\C  # L2.csproj": {}
   },
   "projects": {
-    "F:\\Vs C# learning\\C # study\\C  # L2\\C  # L2.csproj": {
+    "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\C  # L2\\C  # L2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Vs C# learning\\C # study\\C  # L2\\C  # L2.csproj",
+        "projectUniqueName": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\C  # L2\\C  # L2.csproj",
         "projectName": "C  # L2",
-        "projectPath": "F:\\Vs C# learning\\C # study\\C  # L2\\C  # L2.csproj",
+        "projectPath": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\C  # L2\\C  # L2.csproj",
         "packagesPath": "C:\\Users\\21609\\.nuget\\packages\\",
-        "outputPath": "F:\\Vs C# learning\\C # study\\C  # L2\\obj\\",
+        "outputPath": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\C  # L2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

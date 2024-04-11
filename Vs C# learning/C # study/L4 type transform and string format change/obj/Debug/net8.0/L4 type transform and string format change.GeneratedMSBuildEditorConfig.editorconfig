@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = L4_type_transform_and_string_format_change
-build_property.ProjectDir = F:\Vs C# learning\C # study\L4 type transform and string format change\
+build_property.ProjectDir = D:\github\CCHalearning\Vs C# learning\C # study\L4 type transform and string format change\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
