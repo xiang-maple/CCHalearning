@@ -1,0 +1,15 @@
+D:\github\CCHalearning\Vs C# learning\C # study\L10 array\obj\Debug\net8.0\L10 array.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\CCHalearning\Vs C# learning\C # study\L10 array\obj\Debug\net8.0\L10 array.AssemblyInfoInputs.cache
+D:\github\CCHalearning\Vs C# learning\C # study\L10 array\obj\Debug\net8.0\L10 array.AssemblyInfo.cs
+D:\github\CCHalearning\Vs C# learning\C # study\L10 array\obj\Debug\net8.0\L10 array.csproj.CoreCompileInputs.cache
+D:\github\CCHalearning\Vs C# learning\C # study\L10 array\obj\Debug\net8.0\L10 array.sourcelink.json
+D:\github\CCHalearning\Vs C# learning\C # study\L10 array\bin\Debug\net8.0\L10 array.exe
+D:\github\CCHalearning\Vs C# learning\C # study\L10 array\bin\Debug\net8.0\L10 array.deps.json
+D:\github\CCHalearning\Vs C# learning\C # study\L10 array\bin\Debug\net8.0\L10 array.runtimeconfig.json
+D:\github\CCHalearning\Vs C# learning\C # study\L10 array\bin\Debug\net8.0\L10 array.dll
+D:\github\CCHalearning\Vs C# learning\C # study\L10 array\bin\Debug\net8.0\L10 array.pdb
+D:\github\CCHalearning\Vs C# learning\C # study\L10 array\obj\Debug\net8.0\L10 array.dll
+D:\github\CCHalearning\Vs C# learning\C # study\L10 array\obj\Debug\net8.0\refint\L10 array.dll
+D:\github\CCHalearning\Vs C# learning\C # study\L10 array\obj\Debug\net8.0\L10 array.pdb
+D:\github\CCHalearning\Vs C# learning\C # study\L10 array\obj\Debug\net8.0\L10 array.genruntimeconfig.cache
+D:\github\CCHalearning\Vs C# learning\C # study\L10 array\obj\Debug\net8.0\ref\L10 array.dll
