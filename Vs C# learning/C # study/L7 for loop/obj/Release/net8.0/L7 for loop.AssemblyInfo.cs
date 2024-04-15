@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L7 for loop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2210c238304bc4edcd6de3bc92eef901bc4ba005")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ea3f2929e890651b2abeb3912ef58150f11f079")]
 [assembly: System.Reflection.AssemblyProductAttribute("L7 for loop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L7 for loop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

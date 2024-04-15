@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1/n1XylgJhDMjchP47YI3+P76NrWP2XIjr9Cl3SYXXsvUddU9FxlB1wYXwYYKYlXfhWEYdtTacK+IoT0VKROMA==",
+  "dgSpecHash": "u16t78AlchJYQp5W7Hf6OfpBzM7D0yj6jXrrgQIXlAbOkwvND1AvnSYoTnKX8U3aRWUF7DVAHACMDzZZiC15gg==",
   "success": true,
-  "projectFilePath": "D:\\Vs C# learning\\test\\test\\test.csproj",
+  "projectFilePath": "D:\\github\\CCHalearning\\Vs C# learning\\test\\test\\test.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L6_homework", "..\L6_homewo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L6-plus while loop work", "..\L6-plus while loop work\L6-plus while loop work.csproj", "{222D52F3-2398-46A6-B0D3-AD91DA364539}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L8 for loop", "..\L8 for loop\L8 for loop.csproj", "{F0BDC061-D5D7-430F-8BD9-C99D76B2716A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L8 for loop", "..\L8 for loop\L8 for loop.csproj", "{F0BDC061-D5D7-430F-8BD9-C99D76B2716A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L9 Switch and enum", "..\L9 Switch and enum\L9 Switch and enum.csproj", "{F5FCB81F-61B3-42F0-B54D-53E53E38B474}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{F0BDC061-D5D7-430F-8BD9-C99D76B2716A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0BDC061-D5D7-430F-8BD9-C99D76B2716A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0BDC061-D5D7-430F-8BD9-C99D76B2716A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5FCB81F-61B3-42F0-B54D-53E53E38B474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5FCB81F-61B3-42F0-B54D-53E53E38B474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5FCB81F-61B3-42F0-B54D-53E53E38B474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5FCB81F-61B3-42F0-B54D-53E53E38B474}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

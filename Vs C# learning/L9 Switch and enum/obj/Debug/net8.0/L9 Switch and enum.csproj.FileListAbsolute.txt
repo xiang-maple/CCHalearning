@@ -1,0 +1,15 @@
+D:\github\CCHalearning\Vs C# learning\L9 Switch and enum\bin\Debug\net8.0\L9 Switch and enum.exe
+D:\github\CCHalearning\Vs C# learning\L9 Switch and enum\bin\Debug\net8.0\L9 Switch and enum.deps.json
+D:\github\CCHalearning\Vs C# learning\L9 Switch and enum\bin\Debug\net8.0\L9 Switch and enum.runtimeconfig.json
+D:\github\CCHalearning\Vs C# learning\L9 Switch and enum\bin\Debug\net8.0\L9 Switch and enum.dll
+D:\github\CCHalearning\Vs C# learning\L9 Switch and enum\bin\Debug\net8.0\L9 Switch and enum.pdb
+D:\github\CCHalearning\Vs C# learning\L9 Switch and enum\obj\Debug\net8.0\L9 Switch and enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\CCHalearning\Vs C# learning\L9 Switch and enum\obj\Debug\net8.0\L9 Switch and enum.AssemblyInfoInputs.cache
+D:\github\CCHalearning\Vs C# learning\L9 Switch and enum\obj\Debug\net8.0\L9 Switch and enum.AssemblyInfo.cs
+D:\github\CCHalearning\Vs C# learning\L9 Switch and enum\obj\Debug\net8.0\L9 Switch and enum.csproj.CoreCompileInputs.cache
+D:\github\CCHalearning\Vs C# learning\L9 Switch and enum\obj\Debug\net8.0\L9 Switch and enum.sourcelink.json
+D:\github\CCHalearning\Vs C# learning\L9 Switch and enum\obj\Debug\net8.0\L9 Switch and enum.dll
+D:\github\CCHalearning\Vs C# learning\L9 Switch and enum\obj\Debug\net8.0\refint\L9 Switch and enum.dll
+D:\github\CCHalearning\Vs C# learning\L9 Switch and enum\obj\Debug\net8.0\L9 Switch and enum.pdb
+D:\github\CCHalearning\Vs C# learning\L9 Switch and enum\obj\Debug\net8.0\L9 Switch and enum.genruntimeconfig.cache
+D:\github\CCHalearning\Vs C# learning\L9 Switch and enum\obj\Debug\net8.0\ref\L9 Switch and enum.dll

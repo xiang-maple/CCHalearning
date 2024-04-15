@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Vs C# learning\\L8 for loop\\L8 for loop.csproj",
+      "projectUniqueName": "D:\\github\\CCHalearning\\Vs C# learning\\L8 for loop\\L8 for loop.csproj",
       "projectName": "L8 for loop",
-      "projectPath": "F:\\Vs C# learning\\L8 for loop\\L8 for loop.csproj",
+      "projectPath": "D:\\github\\CCHalearning\\Vs C# learning\\L8 for loop\\L8 for loop.csproj",
       "packagesPath": "C:\\Users\\21609\\.nuget\\packages\\",
-      "outputPath": "F:\\Vs C# learning\\L8 for loop\\obj\\",
+      "outputPath": "D:\\github\\CCHalearning\\Vs C# learning\\L8 for loop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -71,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

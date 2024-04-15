@@ -40,7 +40,7 @@ namespace L10_array
             {
                 if (array[i]>Max)
                 {
-                    Max = array[1];
+                    Max = array[i];
                 }
             }
             return Max;
