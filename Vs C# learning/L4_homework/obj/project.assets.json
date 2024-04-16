@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\github\\CCHalearning\\Vs C# learning\\L4_homework\\L4_homework.csproj",
-      "projectName": "L4_homework",
-      "projectPath": "D:\\github\\CCHalearning\\Vs C# learning\\L4_homework\\L4_homework.csproj",
+      "projectUniqueName": "D:\\github\\CCHalearning\\Vs C# learning\\L4_homework\\L4_formatoutput_homework.csproj",
+      "projectName": "L4_formatoutput_homework",
+      "projectPath": "D:\\github\\CCHalearning\\Vs C# learning\\L4_homework\\L4_formatoutput_homework.csproj",
       "packagesPath": "C:\\Users\\21609\\.nuget\\packages\\",
       "outputPath": "D:\\github\\CCHalearning\\Vs C# learning\\L4_homework\\obj\\",
       "projectStyle": "PackageReference",

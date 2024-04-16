@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\github\\CCHalearning\\Vs C# learning\\L5_homework\\L5_homework.csproj",
-      "projectName": "L5_homework",
-      "projectPath": "D:\\github\\CCHalearning\\Vs C# learning\\L5_homework\\L5_homework.csproj",
+      "projectUniqueName": "D:\\github\\CCHalearning\\Vs C# learning\\L5_homework\\L5_input_function_homework.csproj",
+      "projectName": "L5_input_function_homework",
+      "projectPath": "D:\\github\\CCHalearning\\Vs C# learning\\L5_homework\\L5_input_function_homework.csproj",
       "packagesPath": "C:\\Users\\21609\\.nuget\\packages\\",
       "outputPath": "D:\\github\\CCHalearning\\Vs C# learning\\L5_homework\\obj\\",
       "projectStyle": "PackageReference",
