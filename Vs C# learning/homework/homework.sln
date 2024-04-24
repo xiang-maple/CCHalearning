@@ -7,17 +7,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L2 work", "L2 work.csproj",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L3 homework", "..\L2 homework\L3 homework.csproj", "{1425859F-18D3-4E06-863A-EF32A5A3A594}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L4_homework", "..\L4_homework\L4_homework.csproj", "{19D5B5BE-F233-43B6-87D6-42AFEEF124E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L4_formatoutput_homework", "..\L4_homework\L4_formatoutput_homework.csproj", "{19D5B5BE-F233-43B6-87D6-42AFEEF124E7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L5_homework", "..\L5_homework\L5_homework.csproj", "{FBEFF500-5610-4B89-B888-DD64290FF4DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L5_input_function_homework", "..\L5_homework\L5_input_function_homework.csproj", "{FBEFF500-5610-4B89-B888-DD64290FF4DF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L6_homework", "..\L6_homework\L6_homework.csproj", "{FFEB8542-91AB-4A2B-AF0C-2AA4C7D4E3A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L6__or_and_and_homework", "..\L6_homework\L6__or_and_and_homework.csproj", "{FFEB8542-91AB-4A2B-AF0C-2AA4C7D4E3A2}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L6-plus while loop work", "..\L6-plus while loop work\L6-plus while loop work.csproj", "{222D52F3-2398-46A6-B0D3-AD91DA364539}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L8 for loop", "..\L8 for loop\L8 for loop.csproj", "{F0BDC061-D5D7-430F-8BD9-C99D76B2716A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L9 Switch and enum", "..\L9 Switch and enum\L9 Switch and enum.csproj", "{F5FCB81F-61B3-42F0-B54D-53E53E38B474}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L9 Switch and enum", "..\L9 Switch and enum\L9 Switch and enum.csproj", "{F5FCB81F-61B3-42F0-B54D-53E53E38B474}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L10_function", "..\L10_function\L10_function.csproj", "{9D15BF40-1B06-4AA7-A5CF-AB088E6F5CEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L11_array", "..\L11_array\L11_array.csproj", "{86ED33E4-AA5B-4B79-A0BD-0CB78CC4AD04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{F5FCB81F-61B3-42F0-B54D-53E53E38B474}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5FCB81F-61B3-42F0-B54D-53E53E38B474}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5FCB81F-61B3-42F0-B54D-53E53E38B474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D15BF40-1B06-4AA7-A5CF-AB088E6F5CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D15BF40-1B06-4AA7-A5CF-AB088E6F5CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D15BF40-1B06-4AA7-A5CF-AB088E6F5CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D15BF40-1B06-4AA7-A5CF-AB088E6F5CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86ED33E4-AA5B-4B79-A0BD-0CB78CC4AD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86ED33E4-AA5B-4B79-A0BD-0CB78CC4AD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86ED33E4-AA5B-4B79-A0BD-0CB78CC4AD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86ED33E4-AA5B-4B79-A0BD-0CB78CC4AD04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -11,11 +11,11 @@
             Console.WriteLine(c);
             Console.WriteLine("input the number");
             string s = Console.ReadLine();
-            int n = Convert.ToInt32(s);
+            int n = Convert.ToInt32(s); 
             int m =int.Parse(s);
-            Console.WriteLine(n);
+            Console.Write($"the same nubmer{n}with");
             Console.WriteLine(m);
-            Console.WriteLine("n \n= "+n+", mnbnbnb \t=  "+m);
+            Console.WriteLine("n \n= "+n+", m nbnbnb \t=  "+m);
             // homework
             Console.WriteLine("input your name");
             string name = Console.ReadLine();
