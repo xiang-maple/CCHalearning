@@ -17,11 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L7 for loop", "L7 for loop\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L8 Switch case and ennumeration", "L8 Switch case and ennumeration\L8 Switch case and ennumeration.csproj", "{C475AE4B-B2F9-40A6-99A5-C43A2257CF51}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L9 Function", "L9 Function\L9 Function.csproj", "{853879FF-6CA3-477E-9F91-36402327E5AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L9_Function", "L9 Function\L9_Function.csproj", "{853879FF-6CA3-477E-9F91-36402327E5AD}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L10 array", "L10 array\L10 array.csproj", "{19EE0DC9-5591-4DD5-B507-C205346E9207}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L11", "L11\L11.csproj", "{FD4E4C1B-3013-461C-BF6F-083A3FAAE226}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L11array2d", "L11\L11array2d.csproj", "{FD4E4C1B-3013-461C-BF6F-083A3FAAE226}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

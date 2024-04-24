@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L6 while loop\\L6 while loop.csproj",
+      "projectUniqueName": "F:\\github\\CCHalearning\\Vs C# learning\\C # study\\L6 while loop\\L6 while loop.csproj",
       "projectName": "L6 while loop",
-      "projectPath": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L6 while loop\\L6 while loop.csproj",
+      "projectPath": "F:\\github\\CCHalearning\\Vs C# learning\\C # study\\L6 while loop\\L6 while loop.csproj",
       "packagesPath": "C:\\Users\\21609\\.nuget\\packages\\",
-      "outputPath": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\L6 while loop\\obj\\",
+      "outputPath": "F:\\github\\CCHalearning\\Vs C# learning\\C # study\\L6 while loop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -12,22 +12,21 @@ namespace L5__condition_sentence
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Hello, World!");
-            ///*
-            // if conditional sentence
-            // */
-            //string s = Console.ReadLine();
-            //bool b = s == "hi";
-            //if (b)  // not need the ; to end
-            //{   // in the C# the Bool compution is special in !, this is not in pyhthon logical operation
-            //     && = and ||= or
-            //    Console.WriteLine("Hello");
-            //}
-            //Console.WriteLine("over");
+            /*
+             if conditional sentence
+             */
+            string s = Console.ReadLine();
+            bool b = s == "hi";
+            if (b)  // not need the ; to end
+            {   // in the C# the Bool compution is special in !, this is not in pyhthon logical operation
+                // && = and ||= or
+                Console.WriteLine("Hello");
+            }
+            Console.WriteLine("over");
             Console.WriteLine("player ---- 0 ~100, 4 scale");
-            Console.Write("please input the number");
-            string sc = Console.ReadLine();
-            int sc1 = Convert.ToInt32(sc);
+            Console.Write("please input the number ");
+
+            int sc1 = Convert.ToInt32(Console.ReadLine());
             if (sc1 > 100 || sc1 < 0)
             {
                 Console.WriteLine("your input is not effective");
@@ -53,7 +52,7 @@ namespace L5__condition_sentence
             Random random = new Random();  // alway only
             int rand = random.Next(0, 1000000);  // limitless
             int shit = random.Next(0, 1);
-            Console.Write("input the number");           
+            Console.Write("input the number ");           
             string input = Console.ReadLine();
             int num = Convert.ToInt32(input);
             Console.WriteLine("over");
@@ -63,7 +62,7 @@ namespace L5__condition_sentence
             }
             else if (num < rand)
             {
-                Console.WriteLine($" random is: "+rand  +     "fail");  // however you change the space the string is attach the number
+                Console.WriteLine($" random is: "+rand  +  " fail");  // however you change the space the string is attach the number
             }
             else if (num > rand)  // python i
             {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\C  # L2\\C  # L2.csproj": {}
+    "F:\\github\\CCHalearning\\Vs C# learning\\C # study\\C  # L2\\C  # L2.csproj": {}
   },
   "projects": {
-    "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\C  # L2\\C  # L2.csproj": {
+    "F:\\github\\CCHalearning\\Vs C# learning\\C # study\\C  # L2\\C  # L2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\C  # L2\\C  # L2.csproj",
+        "projectUniqueName": "F:\\github\\CCHalearning\\Vs C# learning\\C # study\\C  # L2\\C  # L2.csproj",
         "projectName": "C  # L2",
-        "projectPath": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\C  # L2\\C  # L2.csproj",
+        "projectPath": "F:\\github\\CCHalearning\\Vs C# learning\\C # study\\C  # L2\\C  # L2.csproj",
         "packagesPath": "C:\\Users\\21609\\.nuget\\packages\\",
-        "outputPath": "D:\\github\\CCHalearning\\Vs C# learning\\C # study\\C  # L2\\obj\\",
+        "outputPath": "F:\\github\\CCHalearning\\Vs C# learning\\C # study\\C  # L2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

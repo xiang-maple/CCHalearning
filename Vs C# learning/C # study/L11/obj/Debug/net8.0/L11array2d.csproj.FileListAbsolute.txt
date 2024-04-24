@@ -1,0 +1,15 @@
+F:\github\CCHalearning\Vs C# learning\C # study\L11\bin\Debug\net8.0\L11array2d.exe
+F:\github\CCHalearning\Vs C# learning\C # study\L11\bin\Debug\net8.0\L11array2d.deps.json
+F:\github\CCHalearning\Vs C# learning\C # study\L11\bin\Debug\net8.0\L11array2d.runtimeconfig.json
+F:\github\CCHalearning\Vs C# learning\C # study\L11\bin\Debug\net8.0\L11array2d.dll
+F:\github\CCHalearning\Vs C# learning\C # study\L11\bin\Debug\net8.0\L11array2d.pdb
+F:\github\CCHalearning\Vs C# learning\C # study\L11\obj\Debug\net8.0\L11array2d.GeneratedMSBuildEditorConfig.editorconfig
+F:\github\CCHalearning\Vs C# learning\C # study\L11\obj\Debug\net8.0\L11array2d.AssemblyInfoInputs.cache
+F:\github\CCHalearning\Vs C# learning\C # study\L11\obj\Debug\net8.0\L11array2d.AssemblyInfo.cs
+F:\github\CCHalearning\Vs C# learning\C # study\L11\obj\Debug\net8.0\L11array2d.csproj.CoreCompileInputs.cache
+F:\github\CCHalearning\Vs C# learning\C # study\L11\obj\Debug\net8.0\L11array2d.sourcelink.json
+F:\github\CCHalearning\Vs C# learning\C # study\L11\obj\Debug\net8.0\L11array2d.dll
+F:\github\CCHalearning\Vs C# learning\C # study\L11\obj\Debug\net8.0\refint\L11array2d.dll
+F:\github\CCHalearning\Vs C# learning\C # study\L11\obj\Debug\net8.0\L11array2d.pdb
+F:\github\CCHalearning\Vs C# learning\C # study\L11\obj\Debug\net8.0\L11array2d.genruntimeconfig.cache
+F:\github\CCHalearning\Vs C# learning\C # study\L11\obj\Debug\net8.0\ref\L11array2d.dll
